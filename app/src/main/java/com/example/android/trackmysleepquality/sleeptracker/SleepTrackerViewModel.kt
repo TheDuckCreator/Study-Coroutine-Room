@@ -18,7 +18,10 @@ package com.example.android.trackmysleepquality.sleeptracker
 
 import android.app.Application
 import androidx.lifecycle.AndroidViewModel
+import androidx.lifecycle.MutableLiveData
 import com.example.android.trackmysleepquality.database.SleepDatabaseDao
+import com.example.android.trackmysleepquality.database.SleepNight
+import kotlinx.coroutines.*
 
 /**
  * ViewModel for SleepTrackerFragment.
@@ -26,5 +29,65 @@ import com.example.android.trackmysleepquality.database.SleepDatabaseDao
 class SleepTrackerViewModel(
         val database: SleepDatabaseDao,
         application: Application) : AndroidViewModel(application) {
+
+    //Assign Instance of Job for Coroutine  if want to cancel, cancel this job
+    private var viewModelJob = Job()
+
+    // Add UI Scope that will run on MainThread, we will add viewModelJob because they want place that result placed
+    private val uiScope = CoroutineScope(Dispatchers.Main + viewModelJob)
+
+    //LiveData and MutableLiveData
+
+    // Observable
+    private var tonight = MutableLiveData<SleepNight?>()
+
+    // Initial Field
+    init {
+        initializeTonight()
+    }
+
+    private fun initializeTonight(){
+        // launch Application Based on Scope
+        uiScope.launch {
+            // LiveData Style
+            tonight.value = getTonightFromDatabase()
+        }
+    }
+
+    //Suspend Function Asynchronous Method and must be Nullable return
+    private suspend fun getTonightFromDatabase():SleepNight?{
+        // Getting from DB is IO operation use IO Dispatcher do with this task return asynchronous style
+        return withContext(Dispatchers.IO){
+            // Call Room DAO
+            var night = database.getTonight()
+            if (night?.endTimeMilli != night?.startTimeMilli){
+                night = null
+            }
+            night
+        }
+    }
+
+    fun onStartTracking(){
+        //launch UI Scope
+        uiScope.launch {
+            // New Value capture on Start (Dataclass SleepNight don't require attribute)
+            val newNight = SleepNight()
+            insert(newNight)
+            tonight.value = getTonightFromDatabase()
+        }
+    }
+
+    private suspend fun insert(night: SleepNight){
+        // launch I/O Context and Insert Data to DB
+        withContext(Dispatchers.IO){
+            database.insert(night)
+        }
+    }
+
+    //ViewModel Automatically have method onClear so override onCleared
+    override fun onCleared() {
+        super.onCleared()
+        viewModelJob.cancel()
+    }
 }
 
