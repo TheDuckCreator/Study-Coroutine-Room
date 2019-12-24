@@ -1,0 +1,245 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/theethawat/Documents/TrackMySleepQualityCoroutines-Starter/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/theethawat/Documents/TrackMySleepQualityCoroutines-Starter/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/theethawat/Documents/TrackMySleepQualityCoroutines-Starter/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/theethawat/Documents/TrackMySleepQualityCoroutines-Starter/app/src/main/AndroidManifest.xml:2:1-24:12
+MERGED from [androidx.databinding:databinding-adapters:3.3.0] /home/theethawat/.gradle/caches/transforms-1/files-1.1/databinding-adapters-3.3.0.aar/6c17892eba594a26f514d815df3d58b9/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.databinding:databinding-runtime:3.3.0] /home/theethawat/.gradle/caches/transforms-1/files-1.1/databinding-runtime-3.3.0.aar/d3206327c60fd2d28666c159af8b51cc/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha3] /home/theethawat/.gradle/caches/transforms-1/files-1.1/constraintlayout-2.0.0-alpha3.aar/b9487c9bd1495e4a815e7285236345c1/AndroidManifest.xml:2:1-11:12
+MERGED from [android.arch.navigation:navigation-ui-ktx:1.0.0-alpha08] /home/theethawat/.gradle/caches/transforms-1/files-1.1/jetified-navigation-ui-ktx-1.0.0-alpha08.aar/529d7bb6b52e04aad739b1c597749a42/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.navigation:navigation-ui:1.0.0-alpha08] /home/theethawat/.gradle/caches/transforms-1/files-1.1/jetified-navigation-ui-1.0.0-alpha08.aar/d452f706c0e922521ccc6205b89d4d01/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.material:material:1.0.0] /home/theethawat/.gradle/caches/transforms-1/files-1.1/material-1.0.0.aar/a6eafe21a2d1c50e1fe01a6297682633/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/theethawat/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.2.aar/a6d8f47f343684f8c1567d7991c34919/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.navigation:navigation-fragment-ktx:1.0.0-alpha08] /home/theethawat/.gradle/caches/transforms-1/files-1.1/jetified-navigation-fragment-ktx-1.0.0-alpha08.aar/297c63f5e6568fdd6a9039f77722bdc9/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.navigation:navigation-fragment:1.0.0-alpha08] /home/theethawat/.gradle/caches/transforms-1/files-1.1/jetified-navigation-fragment-1.0.0-alpha08.aar/85cf0bf360822ea53395c882d51c569d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/theethawat/.gradle/caches/transforms-1/files-1.1/legacy-support-v4-1.0.0.aar/b8274172e02faa79233948b15f8da2bd/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /home/theethawat/.gradle/caches/transforms-1/files-1.1/lifecycle-extensions-2.0.0.aar/f5f60943ce699bd959b357173ccbd01a/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.fragment:fragment:1.0.0] /home/theethawat/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0.aar/f5c1dfa04a2e0a11c3ef6ccc15129d89/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.0.1] /home/theethawat/.gradle/caches/transforms-1/files-1.1/core-ktx-1.0.1.aar/7d9e95849627bba9b2e35b60574dc37e/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.room:room-runtime:2.0.0] /home/theethawat/.gradle/caches/transforms-1/files-1.1/room-runtime-2.0.0.aar/21c0e5f3b9a51d82b326fe66ca43b831/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/theethawat/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0.aar/7ade27eb28ea7fe514d2eaf43f3603d4/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /home/theethawat/.gradle/caches/transforms-1/files-1.1/recyclerview-1.0.0.aar/415b8fbd359f12a6d5dc416f1c026b9c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/theethawat/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/b18cd21273a4b0c159beecc986753329/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.navigation:navigation-runtime-ktx:1.0.0-alpha08] /home/theethawat/.gradle/caches/transforms-1/files-1.1/jetified-navigation-runtime-ktx-1.0.0-alpha08.aar/90ec1f6dcfc83b6baa77c7daf1604716/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.navigation:navigation-runtime:1.0.0-alpha08] /home/theethawat/.gradle/caches/transforms-1/files-1.1/jetified-navigation-runtime-1.0.0-alpha08.aar/76428e7585ca102cd24eb3667f431e91/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/theethawat/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/f6f0fef75c256cef1eeb6273d338c013/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/theethawat/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.0.1.aar/54a785f28bb539d4b4fa9f232b86c1a0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/theethawat/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/c9b403d2244b0468f0f5ab603b85e9bb/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] /home/theethawat/.gradle/caches/transforms-1/files-1.1/media-1.0.0.aar/166b61d3474fde7120d487b8b4c371e0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/theethawat/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/f7a59a851d522f23147a33c310ffec0f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/theethawat/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/43e9a6c82982bc8430a57c58469f907f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/theethawat/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/f025077063db2c7a525b953af1172b2c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/theethawat/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/d1a3fd89a2f1a413172bc686d440d042/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /home/theethawat/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/086f9f79424104df5c6ad6b58aefc50f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/theethawat/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/a1c09fcfa02de37a6be03318b2d73e9d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/theethawat/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/12e2180340fc29240c4c70a6ad704f6c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] /home/theethawat/.gradle/caches/transforms-1/files-1.1/transition-1.0.0.aar/fde898ea638a5ddaaa575753c4aa32b2/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.navigation:navigation-common-ktx:1.0.0-alpha08] /home/theethawat/.gradle/caches/transforms-1/files-1.1/jetified-navigation-common-ktx-1.0.0-alpha08.aar/1009400d31c5a4fff71bcef7867fc1dd/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.navigation:navigation-common:1.0.0-alpha08] /home/theethawat/.gradle/caches/transforms-1/files-1.1/jetified-navigation-common-1.0.0-alpha08.aar/f356974b31672603b191f085d29589b1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] /home/theethawat/.gradle/caches/transforms-1/files-1.1/core-1.0.1.aar/e478cd650256d263c6342716ac0e629f/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /home/theethawat/.gradle/caches/transforms-1/files-1.1/lifecycle-process-2.0.0.aar/46fd34c1e3bf4b9679dae1d37cf49d25/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] /home/theethawat/.gradle/caches/transforms-1/files-1.1/lifecycle-service-2.0.0.aar/a7b03a65f800b7a181a41981fe72310d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/theethawat/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/026408a36bd5c823dd015e70903df354/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/theethawat/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/4a6566a42d71ca0ba28a464ea9646363/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/theethawat/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/3bb8d8db3e33e80142a84a49071a3974/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/theethawat/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0.aar/701fc9bf9350ef20e0b1c07d823a50ca/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite-framework:2.0.0] /home/theethawat/.gradle/caches/transforms-1/files-1.1/sqlite-framework-2.0.0.aar/f2c757f863497c40701609706a6ffab5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite:2.0.0] /home/theethawat/.gradle/caches/transforms-1/files-1.1/sqlite-2.0.0.aar/96b78faedd2aea983a512e2aaa328074/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/theethawat/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/e7b6ece851e71e755e427d2b2766bed5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/theethawat/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/78de4809a054be76d7922a58f141b4b3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/theethawat/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/d7f163db96f450da61cf926f9fc17dc9/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/theethawat/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/065cbde23b252bb348945460bd6ca830/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/theethawat/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/4dc87f13fcc74648726d1703b7cf93f5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/theethawat/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/5deee48f6f4256d750bf6fd98e69093c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/theethawat/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/011577c3ab9f677beed2cbb39f2e5c2e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /home/theethawat/.gradle/caches/transforms-1/files-1.1/cardview-1.0.0.aar/e70ef25da12c0d56c38badb563c99d31/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/theethawat/Documents/TrackMySleepQualityCoroutines-Starter/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/theethawat/Documents/TrackMySleepQualityCoroutines-Starter/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/theethawat/Documents/TrackMySleepQualityCoroutines-Starter/app/src/main/AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from /home/theethawat/Documents/TrackMySleepQualityCoroutines-Starter/app/src/main/AndroidManifest.xml:3:5-54
+		INJECTED from /home/theethawat/Documents/TrackMySleepQualityCoroutines-Starter/app/src/main/AndroidManifest.xml
+		INJECTED from /home/theethawat/Documents/TrackMySleepQualityCoroutines-Starter/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/theethawat/Documents/TrackMySleepQualityCoroutines-Starter/app/src/main/AndroidManifest.xml
+		ADDED from /home/theethawat/Documents/TrackMySleepQualityCoroutines-Starter/app/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /home/theethawat/Documents/TrackMySleepQualityCoroutines-Starter/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/theethawat/Documents/TrackMySleepQualityCoroutines-Starter/app/src/main/AndroidManifest.xml
+		ADDED from /home/theethawat/Documents/TrackMySleepQualityCoroutines-Starter/app/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /home/theethawat/Documents/TrackMySleepQualityCoroutines-Starter/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/theethawat/Documents/TrackMySleepQualityCoroutines-Starter/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /home/theethawat/Documents/TrackMySleepQualityCoroutines-Starter/app/src/main/AndroidManifest.xml:5:5-22:19
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha3] /home/theethawat/.gradle/caches/transforms-1/files-1.1/constraintlayout-2.0.0-alpha3.aar/b9487c9bd1495e4a815e7285236345c1/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha3] /home/theethawat/.gradle/caches/transforms-1/files-1.1/constraintlayout-2.0.0-alpha3.aar/b9487c9bd1495e4a815e7285236345c1/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.material:material:1.0.0] /home/theethawat/.gradle/caches/transforms-1/files-1.1/material-1.0.0.aar/a6eafe21a2d1c50e1fe01a6297682633/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] /home/theethawat/.gradle/caches/transforms-1/files-1.1/material-1.0.0.aar/a6eafe21a2d1c50e1fe01a6297682633/AndroidManifest.xml:22:5-20
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /home/theethawat/.gradle/caches/transforms-1/files-1.1/lifecycle-extensions-2.0.0.aar/f5f60943ce699bd959b357173ccbd01a/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /home/theethawat/.gradle/caches/transforms-1/files-1.1/lifecycle-extensions-2.0.0.aar/f5f60943ce699bd959b357173ccbd01a/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.core:core:1.0.1] /home/theethawat/.gradle/caches/transforms-1/files-1.1/core-1.0.1.aar/e478cd650256d263c6342716ac0e629f/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] /home/theethawat/.gradle/caches/transforms-1/files-1.1/core-1.0.1.aar/e478cd650256d263c6342716ac0e629f/AndroidManifest.xml:22:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /home/theethawat/.gradle/caches/transforms-1/files-1.1/lifecycle-process-2.0.0.aar/46fd34c1e3bf4b9679dae1d37cf49d25/AndroidManifest.xml:22:5-28:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /home/theethawat/.gradle/caches/transforms-1/files-1.1/lifecycle-process-2.0.0.aar/46fd34c1e3bf4b9679dae1d37cf49d25/AndroidManifest.xml:22:5-28:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/theethawat/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/4a6566a42d71ca0ba28a464ea9646363/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/theethawat/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/4a6566a42d71ca0ba28a464ea9646363/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] /home/theethawat/.gradle/caches/transforms-1/files-1.1/core-1.0.1.aar/e478cd650256d263c6342716ac0e629f/AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from /home/theethawat/Documents/TrackMySleepQualityCoroutines-Starter/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /home/theethawat/Documents/TrackMySleepQualityCoroutines-Starter/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /home/theethawat/Documents/TrackMySleepQualityCoroutines-Starter/app/src/main/AndroidManifest.xml:9:9-68
+	android:icon
+		ADDED from /home/theethawat/Documents/TrackMySleepQualityCoroutines-Starter/app/src/main/AndroidManifest.xml:7:9-57
+	android:allowBackup
+		ADDED from /home/theethawat/Documents/TrackMySleepQualityCoroutines-Starter/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /home/theethawat/Documents/TrackMySleepQualityCoroutines-Starter/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.example.android.trackmysleepquality.MainActivity
+ADDED from /home/theethawat/Documents/TrackMySleepQualityCoroutines-Starter/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /home/theethawat/Documents/TrackMySleepQualityCoroutines-Starter/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/theethawat/Documents/TrackMySleepQualityCoroutines-Starter/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /home/theethawat/Documents/TrackMySleepQualityCoroutines-Starter/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /home/theethawat/Documents/TrackMySleepQualityCoroutines-Starter/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/theethawat/Documents/TrackMySleepQualityCoroutines-Starter/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /home/theethawat/Documents/TrackMySleepQualityCoroutines-Starter/app/src/main/AndroidManifest.xml:16:27-74
+meta-data#preloaded_fonts
+ADDED from /home/theethawat/Documents/TrackMySleepQualityCoroutines-Starter/app/src/main/AndroidManifest.xml:19:9-21:57
+	android:resource
+		ADDED from /home/theethawat/Documents/TrackMySleepQualityCoroutines-Starter/app/src/main/AndroidManifest.xml:21:13-54
+	android:name
+		ADDED from /home/theethawat/Documents/TrackMySleepQualityCoroutines-Starter/app/src/main/AndroidManifest.xml:20:13-43
+uses-sdk
+INJECTED from /home/theethawat/Documents/TrackMySleepQualityCoroutines-Starter/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/theethawat/Documents/TrackMySleepQualityCoroutines-Starter/app/src/main/AndroidManifest.xml
+INJECTED from /home/theethawat/Documents/TrackMySleepQualityCoroutines-Starter/app/src/main/AndroidManifest.xml
+MERGED from [androidx.databinding:databinding-adapters:3.3.0] /home/theethawat/.gradle/caches/transforms-1/files-1.1/databinding-adapters-3.3.0.aar/6c17892eba594a26f514d815df3d58b9/AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-adapters:3.3.0] /home/theethawat/.gradle/caches/transforms-1/files-1.1/databinding-adapters-3.3.0.aar/6c17892eba594a26f514d815df3d58b9/AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-runtime:3.3.0] /home/theethawat/.gradle/caches/transforms-1/files-1.1/databinding-runtime-3.3.0.aar/d3206327c60fd2d28666c159af8b51cc/AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-runtime:3.3.0] /home/theethawat/.gradle/caches/transforms-1/files-1.1/databinding-runtime-3.3.0.aar/d3206327c60fd2d28666c159af8b51cc/AndroidManifest.xml:22:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha3] /home/theethawat/.gradle/caches/transforms-1/files-1.1/constraintlayout-2.0.0-alpha3.aar/b9487c9bd1495e4a815e7285236345c1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha3] /home/theethawat/.gradle/caches/transforms-1/files-1.1/constraintlayout-2.0.0-alpha3.aar/b9487c9bd1495e4a815e7285236345c1/AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.navigation:navigation-ui-ktx:1.0.0-alpha08] /home/theethawat/.gradle/caches/transforms-1/files-1.1/jetified-navigation-ui-ktx-1.0.0-alpha08.aar/529d7bb6b52e04aad739b1c597749a42/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-ui-ktx:1.0.0-alpha08] /home/theethawat/.gradle/caches/transforms-1/files-1.1/jetified-navigation-ui-ktx-1.0.0-alpha08.aar/529d7bb6b52e04aad739b1c597749a42/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-ui:1.0.0-alpha08] /home/theethawat/.gradle/caches/transforms-1/files-1.1/jetified-navigation-ui-1.0.0-alpha08.aar/d452f706c0e922521ccc6205b89d4d01/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-ui:1.0.0-alpha08] /home/theethawat/.gradle/caches/transforms-1/files-1.1/jetified-navigation-ui-1.0.0-alpha08.aar/d452f706c0e922521ccc6205b89d4d01/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] /home/theethawat/.gradle/caches/transforms-1/files-1.1/material-1.0.0.aar/a6eafe21a2d1c50e1fe01a6297682633/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] /home/theethawat/.gradle/caches/transforms-1/files-1.1/material-1.0.0.aar/a6eafe21a2d1c50e1fe01a6297682633/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/theethawat/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.2.aar/a6d8f47f343684f8c1567d7991c34919/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/theethawat/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.2.aar/a6d8f47f343684f8c1567d7991c34919/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-fragment-ktx:1.0.0-alpha08] /home/theethawat/.gradle/caches/transforms-1/files-1.1/jetified-navigation-fragment-ktx-1.0.0-alpha08.aar/297c63f5e6568fdd6a9039f77722bdc9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-fragment-ktx:1.0.0-alpha08] /home/theethawat/.gradle/caches/transforms-1/files-1.1/jetified-navigation-fragment-ktx-1.0.0-alpha08.aar/297c63f5e6568fdd6a9039f77722bdc9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-fragment:1.0.0-alpha08] /home/theethawat/.gradle/caches/transforms-1/files-1.1/jetified-navigation-fragment-1.0.0-alpha08.aar/85cf0bf360822ea53395c882d51c569d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-fragment:1.0.0-alpha08] /home/theethawat/.gradle/caches/transforms-1/files-1.1/jetified-navigation-fragment-1.0.0-alpha08.aar/85cf0bf360822ea53395c882d51c569d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/theethawat/.gradle/caches/transforms-1/files-1.1/legacy-support-v4-1.0.0.aar/b8274172e02faa79233948b15f8da2bd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/theethawat/.gradle/caches/transforms-1/files-1.1/legacy-support-v4-1.0.0.aar/b8274172e02faa79233948b15f8da2bd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /home/theethawat/.gradle/caches/transforms-1/files-1.1/lifecycle-extensions-2.0.0.aar/f5f60943ce699bd959b357173ccbd01a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /home/theethawat/.gradle/caches/transforms-1/files-1.1/lifecycle-extensions-2.0.0.aar/f5f60943ce699bd959b357173ccbd01a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /home/theethawat/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0.aar/f5c1dfa04a2e0a11c3ef6ccc15129d89/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /home/theethawat/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0.aar/f5c1dfa04a2e0a11c3ef6ccc15129d89/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.0.1] /home/theethawat/.gradle/caches/transforms-1/files-1.1/core-ktx-1.0.1.aar/7d9e95849627bba9b2e35b60574dc37e/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.0.1] /home/theethawat/.gradle/caches/transforms-1/files-1.1/core-ktx-1.0.1.aar/7d9e95849627bba9b2e35b60574dc37e/AndroidManifest.xml:5:5-44
+MERGED from [androidx.room:room-runtime:2.0.0] /home/theethawat/.gradle/caches/transforms-1/files-1.1/room-runtime-2.0.0.aar/21c0e5f3b9a51d82b326fe66ca43b831/AndroidManifest.xml:20:5-44
+MERGED from [androidx.room:room-runtime:2.0.0] /home/theethawat/.gradle/caches/transforms-1/files-1.1/room-runtime-2.0.0.aar/21c0e5f3b9a51d82b326fe66ca43b831/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/theethawat/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0.aar/7ade27eb28ea7fe514d2eaf43f3603d4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/theethawat/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0.aar/7ade27eb28ea7fe514d2eaf43f3603d4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /home/theethawat/.gradle/caches/transforms-1/files-1.1/recyclerview-1.0.0.aar/415b8fbd359f12a6d5dc416f1c026b9c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /home/theethawat/.gradle/caches/transforms-1/files-1.1/recyclerview-1.0.0.aar/415b8fbd359f12a6d5dc416f1c026b9c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/theethawat/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/b18cd21273a4b0c159beecc986753329/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/theethawat/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/b18cd21273a4b0c159beecc986753329/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-runtime-ktx:1.0.0-alpha08] /home/theethawat/.gradle/caches/transforms-1/files-1.1/jetified-navigation-runtime-ktx-1.0.0-alpha08.aar/90ec1f6dcfc83b6baa77c7daf1604716/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-runtime-ktx:1.0.0-alpha08] /home/theethawat/.gradle/caches/transforms-1/files-1.1/jetified-navigation-runtime-ktx-1.0.0-alpha08.aar/90ec1f6dcfc83b6baa77c7daf1604716/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-runtime:1.0.0-alpha08] /home/theethawat/.gradle/caches/transforms-1/files-1.1/jetified-navigation-runtime-1.0.0-alpha08.aar/76428e7585ca102cd24eb3667f431e91/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-runtime:1.0.0-alpha08] /home/theethawat/.gradle/caches/transforms-1/files-1.1/jetified-navigation-runtime-1.0.0-alpha08.aar/76428e7585ca102cd24eb3667f431e91/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/theethawat/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/f6f0fef75c256cef1eeb6273d338c013/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/theethawat/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/f6f0fef75c256cef1eeb6273d338c013/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/theethawat/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.0.1.aar/54a785f28bb539d4b4fa9f232b86c1a0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/theethawat/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.0.1.aar/54a785f28bb539d4b4fa9f232b86c1a0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/theethawat/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/c9b403d2244b0468f0f5ab603b85e9bb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/theethawat/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/c9b403d2244b0468f0f5ab603b85e9bb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /home/theethawat/.gradle/caches/transforms-1/files-1.1/media-1.0.0.aar/166b61d3474fde7120d487b8b4c371e0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /home/theethawat/.gradle/caches/transforms-1/files-1.1/media-1.0.0.aar/166b61d3474fde7120d487b8b4c371e0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/theethawat/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/f7a59a851d522f23147a33c310ffec0f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/theethawat/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/f7a59a851d522f23147a33c310ffec0f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/theethawat/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/43e9a6c82982bc8430a57c58469f907f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/theethawat/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/43e9a6c82982bc8430a57c58469f907f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/theethawat/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/f025077063db2c7a525b953af1172b2c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/theethawat/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/f025077063db2c7a525b953af1172b2c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/theethawat/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/d1a3fd89a2f1a413172bc686d440d042/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/theethawat/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/d1a3fd89a2f1a413172bc686d440d042/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/theethawat/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/086f9f79424104df5c6ad6b58aefc50f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/theethawat/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/086f9f79424104df5c6ad6b58aefc50f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/theethawat/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/a1c09fcfa02de37a6be03318b2d73e9d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/theethawat/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/a1c09fcfa02de37a6be03318b2d73e9d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/theethawat/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/12e2180340fc29240c4c70a6ad704f6c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/theethawat/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/12e2180340fc29240c4c70a6ad704f6c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /home/theethawat/.gradle/caches/transforms-1/files-1.1/transition-1.0.0.aar/fde898ea638a5ddaaa575753c4aa32b2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /home/theethawat/.gradle/caches/transforms-1/files-1.1/transition-1.0.0.aar/fde898ea638a5ddaaa575753c4aa32b2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-common-ktx:1.0.0-alpha08] /home/theethawat/.gradle/caches/transforms-1/files-1.1/jetified-navigation-common-ktx-1.0.0-alpha08.aar/1009400d31c5a4fff71bcef7867fc1dd/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-common-ktx:1.0.0-alpha08] /home/theethawat/.gradle/caches/transforms-1/files-1.1/jetified-navigation-common-ktx-1.0.0-alpha08.aar/1009400d31c5a4fff71bcef7867fc1dd/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-common:1.0.0-alpha08] /home/theethawat/.gradle/caches/transforms-1/files-1.1/jetified-navigation-common-1.0.0-alpha08.aar/f356974b31672603b191f085d29589b1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-common:1.0.0-alpha08] /home/theethawat/.gradle/caches/transforms-1/files-1.1/jetified-navigation-common-1.0.0-alpha08.aar/f356974b31672603b191f085d29589b1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /home/theethawat/.gradle/caches/transforms-1/files-1.1/core-1.0.1.aar/e478cd650256d263c6342716ac0e629f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /home/theethawat/.gradle/caches/transforms-1/files-1.1/core-1.0.1.aar/e478cd650256d263c6342716ac0e629f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /home/theethawat/.gradle/caches/transforms-1/files-1.1/lifecycle-process-2.0.0.aar/46fd34c1e3bf4b9679dae1d37cf49d25/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /home/theethawat/.gradle/caches/transforms-1/files-1.1/lifecycle-process-2.0.0.aar/46fd34c1e3bf4b9679dae1d37cf49d25/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] /home/theethawat/.gradle/caches/transforms-1/files-1.1/lifecycle-service-2.0.0.aar/a7b03a65f800b7a181a41981fe72310d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] /home/theethawat/.gradle/caches/transforms-1/files-1.1/lifecycle-service-2.0.0.aar/a7b03a65f800b7a181a41981fe72310d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/theethawat/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/026408a36bd5c823dd015e70903df354/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/theethawat/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/026408a36bd5c823dd015e70903df354/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/theethawat/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/4a6566a42d71ca0ba28a464ea9646363/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/theethawat/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/4a6566a42d71ca0ba28a464ea9646363/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/theethawat/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/3bb8d8db3e33e80142a84a49071a3974/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/theethawat/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/3bb8d8db3e33e80142a84a49071a3974/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/theethawat/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0.aar/701fc9bf9350ef20e0b1c07d823a50ca/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/theethawat/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0.aar/701fc9bf9350ef20e0b1c07d823a50ca/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.0.0] /home/theethawat/.gradle/caches/transforms-1/files-1.1/sqlite-framework-2.0.0.aar/f2c757f863497c40701609706a6ffab5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.0.0] /home/theethawat/.gradle/caches/transforms-1/files-1.1/sqlite-framework-2.0.0.aar/f2c757f863497c40701609706a6ffab5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.0.0] /home/theethawat/.gradle/caches/transforms-1/files-1.1/sqlite-2.0.0.aar/96b78faedd2aea983a512e2aaa328074/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.0.0] /home/theethawat/.gradle/caches/transforms-1/files-1.1/sqlite-2.0.0.aar/96b78faedd2aea983a512e2aaa328074/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/theethawat/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/e7b6ece851e71e755e427d2b2766bed5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/theethawat/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/e7b6ece851e71e755e427d2b2766bed5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/theethawat/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/78de4809a054be76d7922a58f141b4b3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/theethawat/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/78de4809a054be76d7922a58f141b4b3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/theethawat/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/d7f163db96f450da61cf926f9fc17dc9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/theethawat/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/d7f163db96f450da61cf926f9fc17dc9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/theethawat/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/065cbde23b252bb348945460bd6ca830/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/theethawat/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/065cbde23b252bb348945460bd6ca830/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/theethawat/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/4dc87f13fcc74648726d1703b7cf93f5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/theethawat/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/4dc87f13fcc74648726d1703b7cf93f5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/theethawat/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/5deee48f6f4256d750bf6fd98e69093c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/theethawat/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/5deee48f6f4256d750bf6fd98e69093c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/theethawat/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/011577c3ab9f677beed2cbb39f2e5c2e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/theethawat/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/011577c3ab9f677beed2cbb39f2e5c2e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/theethawat/.gradle/caches/transforms-1/files-1.1/cardview-1.0.0.aar/e70ef25da12c0d56c38badb563c99d31/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/theethawat/.gradle/caches/transforms-1/files-1.1/cardview-1.0.0.aar/e70ef25da12c0d56c38badb563c99d31/AndroidManifest.xml:20:5-44
+INJECTED from /home/theethawat/Documents/TrackMySleepQualityCoroutines-Starter/app/src/main/AndroidManifest.xml
+INJECTED from /home/theethawat/Documents/TrackMySleepQualityCoroutines-Starter/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/theethawat/Documents/TrackMySleepQualityCoroutines-Starter/app/src/main/AndroidManifest.xml
+		ADDED from /home/theethawat/Documents/TrackMySleepQualityCoroutines-Starter/app/src/main/AndroidManifest.xml
+		INJECTED from /home/theethawat/Documents/TrackMySleepQualityCoroutines-Starter/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/theethawat/Documents/TrackMySleepQualityCoroutines-Starter/app/src/main/AndroidManifest.xml
+		ADDED from /home/theethawat/Documents/TrackMySleepQualityCoroutines-Starter/app/src/main/AndroidManifest.xml
+		INJECTED from /home/theethawat/Documents/TrackMySleepQualityCoroutines-Starter/app/src/main/AndroidManifest.xml
+provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /home/theethawat/.gradle/caches/transforms-1/files-1.1/lifecycle-process-2.0.0.aar/46fd34c1e3bf4b9679dae1d37cf49d25/AndroidManifest.xml:23:9-27:43
+	android:authorities
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /home/theethawat/.gradle/caches/transforms-1/files-1.1/lifecycle-process-2.0.0.aar/46fd34c1e3bf4b9679dae1d37cf49d25/AndroidManifest.xml:25:13-69
+	android:multiprocess
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /home/theethawat/.gradle/caches/transforms-1/files-1.1/lifecycle-process-2.0.0.aar/46fd34c1e3bf4b9679dae1d37cf49d25/AndroidManifest.xml:27:13-40
+	android:exported
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /home/theethawat/.gradle/caches/transforms-1/files-1.1/lifecycle-process-2.0.0.aar/46fd34c1e3bf4b9679dae1d37cf49d25/AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /home/theethawat/.gradle/caches/transforms-1/files-1.1/lifecycle-process-2.0.0.aar/46fd34c1e3bf4b9679dae1d37cf49d25/AndroidManifest.xml:24:13-79

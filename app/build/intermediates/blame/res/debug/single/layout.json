@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/theethawat/Documents/TrackMySleepQualityCoroutines-Starter/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_sleep_quality.xml",
+        "source": "/home/theethawat/Documents/TrackMySleepQualityCoroutines-Starter/app/src/main/res/layout/fragment_sleep_quality.xml"
+    },
+    {
+        "merged": "/home/theethawat/Documents/TrackMySleepQualityCoroutines-Starter/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_sleep_tracker.xml",
+        "source": "/home/theethawat/Documents/TrackMySleepQualityCoroutines-Starter/app/src/main/res/layout/fragment_sleep_tracker.xml"
+    }
+]
