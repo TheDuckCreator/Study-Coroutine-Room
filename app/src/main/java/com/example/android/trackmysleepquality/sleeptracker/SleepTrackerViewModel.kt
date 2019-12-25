@@ -19,8 +19,10 @@ package com.example.android.trackmysleepquality.sleeptracker
 import android.app.Application
 import androidx.lifecycle.AndroidViewModel
 import androidx.lifecycle.MutableLiveData
+import androidx.lifecycle.Transformations
 import com.example.android.trackmysleepquality.database.SleepDatabaseDao
 import com.example.android.trackmysleepquality.database.SleepNight
+import com.example.android.trackmysleepquality.formatNights
 import kotlinx.coroutines.*
 
 /**
@@ -36,8 +38,14 @@ class SleepTrackerViewModel(
     // Add UI Scope that will run on MainThread, we will add viewModelJob because they want place that result placed
     private val uiScope = CoroutineScope(Dispatchers.Main + viewModelJob)
 
-    //LiveData and MutableLiveData
+    //Database Object
+    private val nights = database.getAllNights()
 
+    //Transformation Night Value to Formatted String use format function in Util
+    val nightString = Transformations.map(nights){nights->
+        formatNights(nights,application.resources)
+    }
+    //LiveData and MutableLiveData
     // Observable
     private var tonight = MutableLiveData<SleepNight?>()
 
